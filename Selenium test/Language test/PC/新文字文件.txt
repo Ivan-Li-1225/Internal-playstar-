@@ -1,0 +1,1 @@
+pyinstaller -F Selenium網頁自動化測試_DEV前台語系切換(Playstar)_3.12.3.py --icon=python.ico

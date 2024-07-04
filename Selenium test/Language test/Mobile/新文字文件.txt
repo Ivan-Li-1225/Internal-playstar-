@@ -1,0 +1,1 @@
+pyinstaller -F Selenium_Auto-test_DEV_front-platform_mobile.py --icon=python.ico

@@ -1,0 +1,14 @@
+pyinstaller -F Selenium網頁自動化測試_DEV後台(Playstar)_test.py -w --icon=python.ico
+pyinstaller --hidden-import=missing_module Selenium網頁自動化測試_DEV後台(Playstar)_test.py
+
+
+pyinstaller -F Selenium網頁自動化測試_DEV後台(Playstar)_test.ipynb -w --icon=python.ico
+pyinstaller --hidden-import=missing_module Selenium網頁自動化測試_DEV後台(Playstar)_test.ipynb
+
+
+
+pyinstaller -F Selenium網頁自動化測試_DEV後台(Playstar)_3.12.3.py -w --icon=python.ico
+
+
+
+pyinstaller -F Selenium網頁自動化測試_DEV後台(Playstar)_3.12.3.py --icon=python.ico
